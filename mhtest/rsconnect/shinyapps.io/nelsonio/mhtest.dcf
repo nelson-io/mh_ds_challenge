@@ -1,0 +1,12 @@
+name: mhtest
+title: mhtest
+username:
+account: nelsonio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3890952
+bundleId: 4416009
+url: https://nelsonio.shinyapps.io/mhtest/
+when: 1617198872.18644
+asMultiple: FALSE
+asStatic: FALSE
